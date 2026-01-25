@@ -1,0 +1,28 @@
+# Vivado project auto-generated files
+*.jou
+*.log
+*.str
+*.wdb
+*.xpr
+*.xml
+*.webtalk
+*.backup
+*.backup_srcs
+
+# Vivado directories
+.Xil/
+.runs/
+.hw/
+.sim/
+.cache/
+.ip_user_files/
+.ip_user_files_libs/
+
+# Temporary / OS files
+*.tmp
+*.swp
+*.bak
+*.swo
+
+# Executables (if any)
+*.exe
