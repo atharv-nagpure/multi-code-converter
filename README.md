@@ -38,7 +38,7 @@ Default output is zero for undefined selector values
 
 ## Block Diagram
 
-![Block Diagram](<Screenshot 2026-03-01 003305.png>)
+![Block Diagram](Block_Diagram.png)
 
 ## Learning Outcomes
 
@@ -51,4 +51,5 @@ Use of parameters in Verilog
 Implementation of case statements and bitwise operations
 
 Clear separation of logic blocks for modular design
+
 
